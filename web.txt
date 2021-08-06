@@ -1,0 +1,4 @@
+Questions:How does the internet work? What happens when you click on a link?
+
+The internet is ran by magic pixies that have a connection with the Eye of Sauron to know all and see all. The internet is a worldwide computer network. The internet has one job to move data. Like the mail example we went over in class you send mail from Seattle to New York, it can take mulituple routes to get there. The network of computers (internet) does the same thing with data. 
+When clicking a link your operating system and brower work together to figure out where you are going. Together they find the URL that you've just clicked. Behind that URL is the IP address which the computer reconizes and brings up the webpage you click on via link.
